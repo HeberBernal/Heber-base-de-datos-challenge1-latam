@@ -52,8 +52,7 @@ Tras completar el pipeline, el análisis determinó que la **Tienda 1** es el re
 
 ---
 
-**Autor:** Heber Job Bernal Monarrez  
-**Proyecto:** Challenge Data Science - Alura Latam
+**Autor:** Heber Job Bernal Monarrez 
 
 ---
 
