@@ -25,9 +25,6 @@ Tienda 3: $1,260,201.00
 
 Tienda 4: $1,190,098.80
 
-<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/cf679f06-2831-454b-a390-1c3579f7fde9" />
-
-
 Conclusión y Recomendación Final
 Con base en el análisis de los datos de facturación y calificacion, la tienda que se debe considerar para eliminar es la Tienda 4.
 
