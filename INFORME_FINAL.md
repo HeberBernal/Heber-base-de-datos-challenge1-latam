@@ -25,6 +25,8 @@ Tienda 3: $1,260,201.00
 
 Tienda 4: $1,190,098.80
 
+<img width="591" height="482" alt="image" src="https://github.com/user-attachments/assets/aea9ed3f-4417-408a-9454-9c08c6600ba6" />
+
 Conclusión y Recomendación Final
 Con base en el análisis de los datos de facturación y calificacion, la tienda que se debe considerar para eliminar es la Tienda 4.
 
@@ -36,6 +38,7 @@ Volumen de Ventas: También registró la menor cantidad de transacciones, con 6,
 
 Eliminar o reestructurar esta tienda permitiría enfocar los recursos en las tiendas más rentables, especialmente en la Tienda 1, que es la que tiene el mejor desempeño.
 
+![Uploading image.png…]()
 
 
 
