@@ -1,4 +1,4 @@
-# Heber-base-de-datos-challenge1-latam
+# Alura Store LATAM
 # 📊 Análisis de Datos de Ventas - Alura Store LATAM
 
 Este repositorio contiene el proyecto desarrollado para el **Challenge de Data Science de Alura Latam**. El objetivo es realizar un análisis exploratorio de datos de ventas de diferentes tiendas para obtener información clave sobre su rendimiento, facturación y tendencias.
